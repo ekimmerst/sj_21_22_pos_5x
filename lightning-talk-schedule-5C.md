@@ -12,9 +12,9 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | ---------- | ------- | ----- |
 | 13.10.2021 |         |       |
 | 20.10.2021 |         |       |
-| 03.11.2021 | Niemetz | Firebase |
+| 03.11.2021 |         |       |
 | 10.11.2021 |         |       |
-| 17.11.2021 |         |       |
+| 17.11.2021 | Philipp Niemetz | Firebase |
 | 24.11.2021 |         |       |
 | 01.12.2021 | *blocked* | *1. PLF* |
 | 15.12.2021 |         |       |
