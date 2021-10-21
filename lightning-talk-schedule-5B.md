@@ -19,12 +19,12 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 02.12.2021 | *blocked* | *1. PLF* |
 | 09.12.2021 |         |       |
 | 16.12.2020 | Jonas Heschl | Homo Deus - Youval Noah Harari |
-| 13.01.2022 |         |       |
+| 13.01.2022 |         |     |
 | 20.01.2022 | Emil Eichsteininger | What are records in C# and why are they useful? |
 | 27.01.2022 |         |       |
 | 03.02.2022 |         |       |
 | 10.02.2022 | *blocked* | *2. PLF* |
-| 17.02.2022 |         |       |
+| 17.02.2022 | Konstantin Makor | TED Talks by Chris Anderson |
 
 ## SS 2022
 
