@@ -33,7 +33,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | Date       | Student | Topic |
 | ---------- | ------- | ----- |
 | 03.03.2022 |  Konstantin Makor | TED Talks - Chris Anderson  |
-| 10.03.2022 |         |       |
+| 10.03.2022 |  Martin Lechner       | What is Azure and why is it important for mobile developers?      |
 | 17.03.2022 |         |       |
 | 24.03.2022 |         |       |
 | 31.03.2022 |         |       |
