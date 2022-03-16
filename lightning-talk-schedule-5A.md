@@ -40,6 +40,7 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 14.03.2022 | Vasilije Maglov | Cool IoT devices every developer should know about |
 | 21.03.2022 | Florian Auer | What is Markdown, why is it useful, and what cool things can you do with it? |
 | 21.03.2022 | Daniel Lehner | Subreddits that every developer should follow |
+| 21.03.2022 | Patrick Gabriel | What is Serverless Computing and how is it different from traditional Web Hosting? |
 | 28.03.2022 | *blocked* | *3. PLF* |
 | 04.04.2022 | Thomas Wahlmüller | What every developer should know about the Datenschutzgrundverordnung |
 | 04.04.2022 | Stefan Eberl | What is Firebase and why is it important for mobile developers?
