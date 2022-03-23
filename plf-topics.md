@@ -25,8 +25,8 @@
 
 ## 2. PLF
 
-**todo**
-
-## 3. PLF
-
-**todo**
+* Same topics as for the 1st PLF
+* Design Patterns: Observer, Singleton, Prototype, Factory Method, Builder, Visitor
+* SignalR
+* async / await
+* RxJS
