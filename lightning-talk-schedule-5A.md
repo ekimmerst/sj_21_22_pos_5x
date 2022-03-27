@@ -43,4 +43,5 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 21.03.2022 | Patrick Gabriel | What is Serverless Computing and how is it different from traditional Web Hosting? |
 | 28.03.2022 | *blocked* | *3. PLF* |
 | 04.04.2022 | Thomas Wahlmüller | What every developer should know about the Datenschutzgrundverordnung |
-| 04.04.2022 | Stefan Eberl | What is Firebase and why is it important for mobile developers?
+| 04.04.2022 | Stefan Eberl | What is Firebase and why is it important for mobile developers? |
+| 04.04.2022 | Fabian Psutka | Machine/Deep Learning with Keras |
