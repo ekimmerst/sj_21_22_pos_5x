@@ -42,3 +42,4 @@ You do not know how because you are not familiar with GitHub yet? [Watch a video
 | 24.03.2022 |  Konstantin Makor | TED Talks - Chris Anderson  |
 | 31.03.2022 | *blocked* | *2. PLF* |
 | 07.04.2022 | Fabian Hainzinger | Stripe |
+| 07.04.2022 | Luka Pilic | What is Markdown, why is it useful, and what cool things can you do with it? |
