@@ -2,7 +2,7 @@
 
 ## Allgemeines
 
-- Es wird eine **Web-App** (Frontend mit **Angular**, Backend mit **ASP.NET Core 6.0 WebAPI**) und eine **Desktop-App (WPF mit MVVM)** zu programmieren sein.
+- Es wird eine **Web-App** (Frontend mit **Angular**, Backend mit **ASP.NET Core 6.0 WebAPI**) und eine **Desktop-App (WPF mit oder ohne MVVM)** zu programmieren sein.
 - Die **Grundgerüste** der Programme samt **Datenbanklayer** werden **vorgegeben**.
 - Es können auch **kleinere Teilaufgaben** (Regex, Linq etc.) enthalten sein.
 - **Schwerpunkt** liegt auf **Ausführbarkeit** und nicht auf Optik der Programme.
@@ -16,6 +16,7 @@
   - Allgemein
   - Event/Delegate
   - UserControls
+  - TreeView
   - MVVM
   - Linq
   - Layouts
