@@ -65,7 +65,7 @@
 
 ## Unterlagen
 
-- Es darf ein handschriftliche geschriebener DIN A4 - Zettel verwendet werden.
+- Es darf ein handschriftlich geschriebener DIN A4 - Zettel verwendet werden.
 Dieser muss spätestens eine Woche vor dem Maturatermin bei Prof. Grüneis oder Prof. Kimmerstorfer abgegeben werden,
 damit dieser mit dem Schulstempel versehen werden kann.
 - Unterlagen werden wie bei den PLFs elektronisch verteilt inkl. MDFViewer
