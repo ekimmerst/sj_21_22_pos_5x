@@ -68,5 +68,15 @@
 - Es darf ein handschriftlich geschriebener DIN A4 - Zettel verwendet werden.
 Dieser muss spätestens eine Woche vor dem Maturatermin bei Prof. Grüneis oder Prof. Kimmerstorfer abgegeben werden,
 damit dieser mit dem Schulstempel versehen werden kann.
-- Unterlagen werden wie bei den PLFs elektronisch verteilt inkl. MDFViewer
+- Unterlagen werden wie bei den PLFs elektronisch verteilt inkl. MDFViewer 
+ - LINQ-Übersicht: C# / Javascript
+ - MVVM
+ - Drag&Drop
+ - RxJs
+ - Regex Cheat-Sheet
+ - Angular Cheat Sheet
+ - Angular Routing
+ - Angular Modules Übersicht
+ - DesignPatterns: UML-Diagramme
+ - MdfViewer
 - Eine ZIP-Datei mit allen Unterlagen wird im Eduvidual-Kurs zur Verfügung gestellt.
