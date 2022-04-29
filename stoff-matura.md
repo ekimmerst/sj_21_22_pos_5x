@@ -27,6 +27,7 @@
   - SignalR
   - RESTful-API konsumieren
   - async / await
+  - Dependency Injection
 - EF Core
   - Datenbank befüllen (CSV, JSON)
 - ASP.NET Core 6.0 WebAPI
