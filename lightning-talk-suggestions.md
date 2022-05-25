@@ -64,6 +64,7 @@ Here are suggestions for [lightning talk](https://en.wikipedia.org/wiki/Lightnin
    10.   What are the [_Microsoft REST API Design Guidelines_](https://github.com/microsoft/api-guidelines/blob/vNext/Guidelines.md) and what can we learn from it?
    11.   What is [_GraphQL_](https://graphql.org/) and why is it important for developing distributed applications?
    12.   What is [_OData_](https://www.odata.org/) and why is it important for developing distributed applications?
+   13.   What is [RabbitMQ](https://www.rabbitmq.com/) and what can it be used for?
 6. Openness
    1. Free development tools every .NET developer should know about
    2. Free web services every .NET developer should know about
